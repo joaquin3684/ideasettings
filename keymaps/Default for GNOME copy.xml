@@ -1,0 +1,10 @@
+<keymap version="1" name="Default for GNOME copy" parent="Default for GNOME">
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="shift ctrl back_quote" />
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+  </action>
+</keymap>
