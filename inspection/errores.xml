@@ -196,7 +196,6 @@
   <inspection_tool class="JSCommentMatchesSignature" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="JSComparisonWithNaN" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="JSConsecutiveCommasInArrayLiteral" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="JSConstructorReturnsPrimitive" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="JSDeprecatedSymbols" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="JSDuplicatedDeclaration" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="JSEqualityComparisonWithCoercion" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -336,7 +335,7 @@
   <inspection_tool class="PhpMissingFieldTypeInspection" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="PhpMissingParentCallCommonInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="PhpMissingParentCallMagicInspection" enabled="false" level="ERROR" enabled_by_default="false" />
-  <inspection_tool class="PhpMissingParentConstructorInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+  <inspection_tool class="PhpMissingParentConstructorInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="PhpMissingStrictTypesDeclarationInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="PhpMissingVisibilityInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="PhpModifierOrderInspection" enabled="false" level="ERROR" enabled_by_default="false" />
@@ -344,7 +343,7 @@
   <inspection_tool class="PhpNewClassMissingParameterListInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="PhpNonCanonicalElementsOrderInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="PhpNonCompoundUseInspection" enabled="true" level="ERROR" enabled_by_default="true" />
-  <inspection_tool class="PhpNonStrictObjectEqualityInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+  <inspection_tool class="PhpNonStrictObjectEqualityInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="PhpOptionalBeforeRequiredParametersInspection" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="PhpParamsInspection" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="PhpPossiblePolymorphicInvocationInspection" enabled="true" level="ERROR" enabled_by_default="true" />
@@ -355,7 +354,7 @@
   <inspection_tool class="PhpShortOpenTagInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="PhpSignatureMismatchDuringInheritanceInspection" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="PhpSillyAssignmentInspection" enabled="true" level="ERROR" enabled_by_default="true" />
-  <inspection_tool class="PhpSingleStatementWithBracesInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+  <inspection_tool class="PhpSingleStatementWithBracesInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="PhpStatementHasEmptyBodyInspection" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="PhpStatementWithoutBracesInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="PhpStaticAsDynamicMethodCallInspection" enabled="false" level="ERROR" enabled_by_default="false" />
@@ -427,9 +426,6 @@
   <inspection_tool class="UnnecessaryReturnJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="UnreachableCodeJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="UnresolvedDefinition" enabled="false" level="ERROR" enabled_by_default="false" />
-  <inspection_tool class="UnterminatedStatementJS" enabled="false" level="WARNING" enabled_by_default="false">
-    <option name="ignoreSemicolonAtEndOfBlock" value="true" />
-  </inspection_tool>
   <inspection_tool class="UnusedDefinition" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="WebpackConfigHighlighting" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="WithStatementJS" enabled="false" level="WARNING" enabled_by_default="false" />
