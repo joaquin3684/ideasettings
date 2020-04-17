@@ -346,7 +346,7 @@
   <inspection_tool class="PhpNonStrictObjectEqualityInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="PhpOptionalBeforeRequiredParametersInspection" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="PhpParamsInspection" enabled="true" level="ERROR" enabled_by_default="true" />
-  <inspection_tool class="PhpPossiblePolymorphicInvocationInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+  <inspection_tool class="PhpPossiblePolymorphicInvocationInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="PhpPropertyNamingConventionInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="PhpRedundantCatchClauseInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="PhpRedundantClosingTagInspection" enabled="true" level="ERROR" enabled_by_default="true" />
