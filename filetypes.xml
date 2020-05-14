@@ -4,6 +4,7 @@
       <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
+      <mapping ext="config" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
